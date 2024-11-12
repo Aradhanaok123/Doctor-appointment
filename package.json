@@ -12,7 +12,7 @@
   "keywords": [],
   "author": "aradhana",
   "license": "MIT",
-  "description": "",
+  "description": "Medical app",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
